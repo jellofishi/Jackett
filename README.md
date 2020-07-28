@@ -134,7 +134,6 @@ Developer note: The software implements the [Torznab](https://github.com/Sonarr/
  * TorrentDownload
  * TorrentFunk
  * TorrentGalaxy (TGx)
- * TorrentHane
  * TorrentKitty
  * TorrentParadise
  * TorrentProject2
@@ -531,8 +530,6 @@ Developer note: The software implements the [Torznab](https://github.com/Sonarr/
  * TurkTorrent (TT)
  * Twilight Torrents
  * Twilights Zoom
- * U-Torrents
- * u-torrents (SceneFZ)
  * U2 (U2分享園@動漫花園)
  * UHDBits
  * UnionGang
@@ -541,6 +538,7 @@ Developer note: The software implements the [Torznab](https://github.com/Sonarr/
  * Vizuk
  * WDT (Wrestling Desires Torrents / Ultimate Wrestling Torrents)
  * World-In-HD
+ * Witch-Hunter (Demon-Site)
  * World-of-Tomorrow
  * x-ite.me (XM)
  * xBytesV2
